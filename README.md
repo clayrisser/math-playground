@@ -24,8 +24,8 @@ make
 ## Dependencies
 <!------------------------------------------------------->
 
-[Python 2.7](https://www.python.org/)
-[TkInter](https://wiki.python.org/moin/TkInter)
+* [Python 2.7](https://www.python.org/)
+* [TkInter](https://wiki.python.org/moin/TkInter)
 
 
 ## Usage
